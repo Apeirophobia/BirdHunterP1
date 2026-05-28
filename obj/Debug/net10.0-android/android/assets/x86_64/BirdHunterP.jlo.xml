@@ -1,0 +1,15 @@
+<api>
+  <jcw-types>
+    <type name="MainActivity" package="crc64b3a2f24cc3f64820" application_java_class="android.app.Application" mono_runtime_initialization="mono.MonoPackageManager.LoadApplication (context);" extends_type="crc6488302ad6e9e4df1a.MauiAppCompatActivity" partial_assembly_qualified_name="BirdHunterP.MainActivity, BirdHunterP">
+      <constructors>
+        <constructor name="MainActivity" method="n_.ctor:()V:" jni_signature="()V" managed_parameters="" retval="void" is_dynamically_registered="True" />
+        <constructor name="MainActivity" method="n_.ctor:(I)V:" jni_signature="(I)V" managed_parameters="System.Int32, System.Private.CoreLib" params="int p0" retval="void" is_dynamically_registered="True" super_call="p0" activate_call="p0" />
+      </constructors>
+    </type>
+    <type name="MainApplication" package="crc64b3a2f24cc3f64820" application_java_class="android.app.Application" mono_runtime_initialization="mono.MonoPackageManager.LoadApplication (context);" extends_type="crc6488302ad6e9e4df1a.MauiApplication" is_application="True" partial_assembly_qualified_name="BirdHunterP.MainApplication, BirdHunterP" application_constructor="MainApplication" />
+  </jcw-types>
+  <acw-types partial-assembly-name="BirdHunterP" module-name="BirdHunterP.dll">
+    <type assembly-qualified-name="BirdHunterP.MainActivity, BirdHunterP, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" compat-jni-name="birdhunterp.MainActivity" java-key="crc64b3a2f24cc3f64820.MainActivity" managed-key="BirdHunterP.MainActivity" partial-assembly-qualified-name="BirdHunterP.MainActivity, BirdHunterP" />
+    <type assembly-qualified-name="BirdHunterP.MainApplication, BirdHunterP, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" compat-jni-name="birdhunterp.MainApplication" java-key="crc64b3a2f24cc3f64820.MainApplication" managed-key="BirdHunterP.MainApplication" partial-assembly-qualified-name="BirdHunterP.MainApplication, BirdHunterP" />
+  </acw-types>
+</api>
